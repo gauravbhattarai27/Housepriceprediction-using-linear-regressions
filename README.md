@@ -4,5 +4,5 @@ Algorithm : Linear Regression
 
 Libraries Used:
 
-Scikit-learn
+Scikit-learn and
 Pandas
